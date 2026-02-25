@@ -66,9 +66,12 @@ This project demonstrates:
 Run main.py to launch the application interface.
 
 # How to Run
-1. Download project
-2. Open in Python
-3. Run main.py
+1. Open the GitHub project link  
+2. Click on the green **Code** button  
+3. Select **Download ZIP**  
+4. Extract the downloaded ZIP file  
+5. Open the project folder in VS Code or any Python IDE  
+6. Run the file :  main.py
    
 ## Author
 Kanishka Tyagi
