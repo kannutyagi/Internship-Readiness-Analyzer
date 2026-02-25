@@ -62,5 +62,13 @@ This project demonstrates:
 • GUI design skills  
 • Real-world internship preparation logic  
 
+# Project Demo
+Run main.py to launch the application interface.
+
+# How to Run
+1. Download project
+2. Open in Python
+3. Run main.py
+   
 ## Author
 Kanishka Tyagi
