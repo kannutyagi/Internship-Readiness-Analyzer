@@ -32,6 +32,7 @@ The goal of this project is to help students understand their current technical 
 • Tkinter (GUI)
 
 # Project Structure
+
 main.py → Home Screen
 home.py → Assessment & Roadmap Interface
 python_page.py → Python Strength Logic
